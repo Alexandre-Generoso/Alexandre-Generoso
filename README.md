@@ -16,7 +16,7 @@
 📜 Preparing for **eJPT** (May 2026) and **CEH** (Dec 2026) certifications  
 💼 Software Developer with 3+ years experience in **JavaScript, Python, and APIs**  
 🌎 Based in **Belo Horizonte, Brazil** | Open to relocation (São Paulo preferred)  
-🇺🇸 **Fluent in English** (Exchange student in South Dakota, USA)
+🇺🇸 **Fluent in English** 
 
 ---
 
