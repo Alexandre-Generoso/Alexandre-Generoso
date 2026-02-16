@@ -65,8 +65,13 @@
 </table>
 
 **Active Training:**
-- 🎮 [TryHackMe](https://tryhackme.com) - Hands-on penetration testing labs
-- 📚 [INE Security](https://ine.com) - eJPT preparation course
+- 🎮 [TryHackMe](https://tryhackme.com/p/n0tr4ce) - Hands-on penetration testing labs
+
+<div align="center">
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/n0tr4ce.png)
+
+</div>
 
 ---
 
@@ -84,9 +89,8 @@
 
 <div align="center">
   
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Generoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Generoso&layout=compact&theme=tokyonight&langs_count=8)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Generoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Generoso&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </div>
 
@@ -125,7 +129,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-generoso-barroso-junior-411033218/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandre-Generoso)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrejrjuninho@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YourUsername)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/n0tr4ce)
 
 </div>
 
@@ -151,12 +155,13 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Generoso&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Generoso&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
