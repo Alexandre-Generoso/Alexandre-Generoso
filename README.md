@@ -1,161 +1,102 @@
-# 👋 Hi, I'm Alexandre Generoso
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Penetration+Tester;Software+Developer;Always+Learning+%F0%9F%94%90)](https://git.io/typing-svg)
+
+# Alexandre Generoso
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Penetration+Tester;eJPT+Certified+(93%25);Software+Developer;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🔐 About Me
+## About Me
 
-🎯 **Cybersecurity enthusiast** transitioning from software development to offensive security  
-🎓 Currently pursuing **Bachelor's in Cybersecurity** @ PUC Minas  
-🔍 Active on **TryHackMe** sharpening my penetration testing skills  
-📜 Preparing for **eJPT** (May 2026) and **CEH** (Dec 2026) certifications  
-💼 Software Developer with 3+ years experience in **JavaScript, Python, and APIs**  
-🌎 Based in **Belo Horizonte, Brazil** | Open to relocation (São Paulo preferred)  
-🇺🇸 **Fluent in English** 
-
----
-
-## 🛠️ Tech Stack
-
-### 🔴 Cybersecurity & Penetration Testing
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### 💻 Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- eJPT certified penetration tester with 3 years of software development experience
+- Bachelor's in Cybersecurity at PUC Minas (in progress)
+- Active on TryHackMe and Hack The Box
+- Currently working at Hypercloud as a JavaScript developer, integrating AI via Gemini API
+- Fluent in English and Portuguese | Based in Belo Horizonte, Brazil | Open to relocation
 
 ---
 
 ## 🎓 Certifications & Training
 
+<div align="center">
 <table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/eJPT-IN_PREPARATION-E63946?style=for-the-badge" alt="eJPT"/>
-      <br><sub>Expected: May 2026</sub>
+    <td align="center">
+      <img src="https://img.shields.io/badge/eJPT-CERTIFIED_93%25-06D6A0?style=for-the-badge" alt="eJPT"/>
+      <br><sub>Achieved: May 2026</sub>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/CEH-GOAL-E63946?style=for-the-badge" alt="CEH"/>
-      <br><sub>Target: Dec 2026</sub>
-    </td>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Google_Workspace_Admin-CERTIFIED-06D6A0?style=for-the-badge" alt="Google"/>
       <br><sub>Achieved: Aug 2025</sub>
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Security+-IN_PROGRESS-E63946?style=for-the-badge" alt="Security+"/>
+      <br><sub>Goal: 2026</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ISO_27001-IN_PROGRESS-E63946?style=for-the-badge" alt="ISO 27001"/>
+      <br><sub>Goal: 2026</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CPTS-GOAL-E63946?style=for-the-badge" alt="CPTS"/>
+      <br><sub>Goal: 2027</sub>
+    </td>
   </tr>
 </table>
+</div>
 
 **Active Training:**
 - 🎮 [TryHackMe](https://tryhackme.com/p/n0tr4ce) - Hands-on penetration testing labs
+- ⚔️ [Hack The Box](https://hackthebox.com) - Offensive security challenges
 
-<div align="center">
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/n0tr4ce.png)
 
-</div>
 
 ---
 
-## 🚀 Current Projects
+## Tech Stack
 
-🔨 **Working on:**
-- 🔍 Advanced Port Scanner with service detection
-- 🔐 Password Strength Analyzer & Generator
-- 📝 CTF Write-ups repository
-- 🛡️ Security automation scripts
+**Cybersecurity**
+Kali Linux | Nmap | Burp Suite | Metasploit | OWASP Top 10
+
+**Development**
+JavaScript | Python | Google Apps Script | AppSheet | REST APIs | Node.js
+
+**AI & Automation**
+Microsoft Copilot Studio | Google AI Studio | Gemini API | Power Platform
+
+**Platforms**
+TryHackMe | Hack The Box | INE Security | Google Workspace
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 ```python
-class CybersecuritySpecialist:
+class AlexandreGeneroso:
     def __init__(self):
-        self.name = "Alexandre Generoso"
-        self.role = "Aspiring Penetration Tester"
+        self.role = "Junior Penetration Tester"
+        self.certifications = ["eJPT (93%)", "Google Workspace Admin"]
         self.focus = [
-            "Network Security",
-            "Web Application Security",
             "Penetration Testing",
+            "Web Application Security",
+            "Network Security",
             "OWASP Top 10",
-            "Security Automation"
+            "Offensive Security",
         ]
-        self.learning = ["Exploit Development", "Privilege Escalation", "Post-Exploitation"]
-        self.goals_2026 = ["eJPT Certification", "CEH Certification", "Land First Pentest Role"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's secure the digital world together 🔐")
-
-me = CybersecuritySpecialist()
-me.say_hi()
+        self.stack = ["JavaScript", "Python", "AppSheet", "Gemini API", "Copilot Studio"]
+        self.goals = ["CompTIA Security+", "ISO 27001", "First Pentest Role"]
 ```
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-generoso-barroso-junior-411033218/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandre-Generoso)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrejrjuninho@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/n0tr4ce)
-
-</div>
-
----
-
-## 💡 Fun Facts
-
-- 🎓 Studied abroad in **South Dakota, USA** during high school
-- 🌍 Trilingual: **Portuguese** (native), **English** (fluent), **Spanish** (intermediate)
-- 🔄 Transitioned from **Software Developer** to **Cybersecurity Specialist**
-- 🎮 Love solving CTF challenges and breaking things (ethically!)
-- 💪 Believer in **continuous learning** and **hands-on practice**
-
----
-
-<div align="center">
-
-### 🔐 *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2196294)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrejrjuninho@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alexandre-Generoso&color=00D9FF&style=flat-square)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Generoso&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-  
-### ⚡ *Always learning, always hacking (ethically), always securing* ⚡
-
-</div>
